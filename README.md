@@ -1,6 +1,7 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 For Submission Purposes:
 https://github.com/haileykyllonen/Project-Build-an-ML-Pipeline-Starter
+
 https://wandb.ai/hkyllo1-western-governors-university/nyc_airbnb?nw=nwuserhkyllo1
 
 You are working for a property management company renting rooms and properties for short periods of 
